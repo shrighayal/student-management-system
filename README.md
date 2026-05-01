@@ -24,10 +24,10 @@ A **Spring Boot + Maven Multi-Module REST API** project for managing student dat
 
 ## 📸 Application Output
 
-![Output](output4.png)
-![Output](output1.png)
-![Output](output2.png)
-![Output](output3.png)
+![Output](image/output4.png)
+![Output](image/output1.png)
+![Output](image/output2.png)
+![Output](image/output3.png)
 
 ---
 
