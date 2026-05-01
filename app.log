@@ -45,3 +45,5 @@ Hibernate: create table students (age integer not null check (age>=1), id bigint
 2026-05-01T08:55:15.674Z  INFO 13936 --- [nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
 2026-05-01T08:55:15.677Z  INFO 13936 --- [nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
 Hibernate: select count(*) from students s1_0
+Hibernate: select count(*) from students s1_0
+Hibernate: select count(*) from students s1_0
